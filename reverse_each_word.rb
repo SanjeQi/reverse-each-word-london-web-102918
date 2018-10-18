@@ -4,5 +4,5 @@ def reverse_each_word(sting)
   arr.each do |word|
     arr_rev.push(word.reverse)
   end
-  return arr_rev.join(" , ")
+  return arr_rev.join(",")
 end
