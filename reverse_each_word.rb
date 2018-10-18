@@ -1,3 +1,3 @@
 def reverse_each_word(sting)
-  string.split(/ /)
+  arr = string.split(/ /)
 end
